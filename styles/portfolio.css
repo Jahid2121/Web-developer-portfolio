@@ -80,8 +80,23 @@ margin-bottom: 20px;
     background: #FFF8F3;
     margin: 130px 0;
 }
+/** main related css **/
+main{
+    max-width: 11140px;
+    margin: 0 auto;
+}
 
 section-description{
     color:#757575
 text-align: center;
 font-size: 18px;
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+.about-info{
+    text-align: center;
+}
+.info-title{
+    font-style: bold;
+}
