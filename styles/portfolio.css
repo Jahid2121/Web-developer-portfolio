@@ -78,22 +78,23 @@ font-weight: 700;
 margin-top: 5px;
 margin-bottom: 20px;
 }
+main{
+    max-width: 11140px;
+    margin: 0 auto;
+}
 
 .about{
     padding: 130px;
     border-radius: 10px;
     background: #FFF8F3;
-    margin: 130px 50px;
+    margin: 130px 100px;
 }
 .banner-description{
     max-width: 500px;
 }
 
 /** main related css **/
-main{
-    max-width: 11140px;
-    margin: 0 auto;
-}
+
 
 .section-description{
     color:#757575
